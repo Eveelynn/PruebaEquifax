@@ -1,4 +1,4 @@
-commit inicial evaluación equifax
+Evaluación Equifax
 
 Lo que realicé fueron dos flujos:
 1.- En el primer flujo seleccioné en "SPECIAL OFFER", luego en "SEE OFFER", luego cambié el color a negro y finalmente  
